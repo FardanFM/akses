@@ -3,18 +3,14 @@
     {
       "nama": "var",
       "nomor": "6283151785747",
-      "password": "var1"
+      "password": "var",
+      "dibuat_oleh": "mas amba"
     },
     {
       "nama": "far",
       "nomor": "6282120627665",
-      "password": "far1"
-    },
-    {
-      "nomor": "628×××××",
-      "nama": "nama",
-      "password": "passwordx",
-      "dibuat_oleh": "6283891813151"
+      "password": "far1",
+      "dibuat_oleh": "anomali"
     }
   ]
 }
