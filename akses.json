@@ -1,28 +1,7 @@
-{
-  "data": [
-    {
-      "nama": "far",
-      "nomor": "6282120627665",
-      "password": "far1",
-      "dibuat_oleh": "anomali"
-    },
-    {
-      "nomor": "6283891510591",
-      "nama": "terserah",
-      "password": "vinnz",
-      "dibuat_oleh": "kinich"
-    },
-    {
-      "nomor": "6285223506739",
-      "nama": "malz",
-      "password": "malzpw",
-      "dibuat_oleh": "Malz"
-    },
-    {
-      "nomor": "6282245687140",
-      "nama": "rkz",
-      "password": "rkzp",
-      "dibuat_oleh": "rakaz"
-    }
-  ]
-}
+[
+  {
+    "nama": "udin",
+    "password": "petot",
+    "nomor": "6283151785747"
+  }
+]
