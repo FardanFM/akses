@@ -1,17 +1,4 @@
-[
-  {
-    "nama": "far",
-    "password": "far1",
-    "nomor": "6282120627665"
-  },
-  {
-    "nama": "var",
-    "password": "var1",
-    "nomor": "6283151785747"
-  },
-  {
-    "nama": "vel",
-    "password": "vel1",
-    "nomor": "6287865619074"
-  }
-]
+{ 
+  "Dan": "edan",
+  "Bejir": "walah"
+}
