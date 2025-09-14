@@ -1,6 +1,10 @@
 [
-{ 
+  { 
   "nama": "edan",
   "password": "walah"
-}
+  },
+    { 
+  "nama": "fahrii",
+  "password": "edan"
+    }
 ]
